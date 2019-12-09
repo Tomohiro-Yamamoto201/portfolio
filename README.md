@@ -1,14 +1,14 @@
 # portfolio
 HTMLテンプレートを用いたポートフォリオサイトです。
 
-* 概要
+## 概要
 
-* About Me
+## About Me
 
-* My Services
+## My Services
 
-* My Skills
+## My Skills
 
-* My Portfolio
+## My Portfolio
 
-* Contact Me
+## Contact Me
